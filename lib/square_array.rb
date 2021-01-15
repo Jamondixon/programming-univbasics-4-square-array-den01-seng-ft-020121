@@ -6,5 +6,5 @@ while numbers[counter] do
   sqr_number[counter] = numbers[counter]**2
   counter += 1
 end
-
+sqr_number
 end
